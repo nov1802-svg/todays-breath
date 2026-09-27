@@ -4,3 +4,5 @@ desktop.ini
 *.log
 .env
 .env.*
+node_modules/
+.vercel
